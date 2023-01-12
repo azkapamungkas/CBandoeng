@@ -1,0 +1,1930 @@
+[
+  {
+    "title":"TAMAN MUSIK 04",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmusikempat.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV PUSDAI 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Pusda.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL AHMAD YANI 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabardua.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL. ARCAMANIK 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Arca.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV CIMINDI-SUKARAJA_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV ALUN-ALUN_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ALU.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV ALUN-ALUN_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ALUN.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV BATAS KOTA 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/BatasKota.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV TERMINAL DAGO 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/IrHJuandaTerminaldago.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV SEBRANG PASAR BARU 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Otistasebrangpasarbaru.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV ALUN-ALUN 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ALU.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV ALUN-ALUN 03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ALUN.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL. SURYA SUMANTRI 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Suryamantri.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV PUSDAI 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Pusdai.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV ITC KEBON KALAPA 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebon.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV CIATEUL_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/CIAT.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL ASIA AFRIKA BRI TOWER 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowerdua.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL. SURYA SUMANTRI 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Sury.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV GEDEBAGE 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEBAGE.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL ASIA AFRIKA BRI TOWER 03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowerdua.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL KOPO SEBRANG MIKO MALL 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomall.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV KATAMSO 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Katamsoke.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV GASIBU 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV TERMINAL DAGO 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/IrHJuandaTerminaldagodua.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV GEDEBAGE 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEBAGE.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV KATAMSO-PAHLAWAN_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KATA.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV KEBON-KOPI-CIMAHI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL WAAS BATUNUNGGAL 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/WaaspertigaankompleksBatununggal.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV KEBON-KOPI_BANDUNG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV CICENDO - KB. KAWUNG 03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicen.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV CICENDO - KB. KAWUNG 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicen2.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV TAMAN SARI - WS 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansr.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV TAMAN SARI - WS 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansri.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL. SURAPATI - GASIBU 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Surat.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV YANI - LASWI 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Yanilaswi.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV DEPAN TOKO INDRA (ALUN2) 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8"
+    ]
+  },
+  {
+    "title":"JL CIHAPIT 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Cihapit.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL CIGADUNG 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cigadungdua.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV KEBON KAWUNG - PASKAL 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKam.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV PASAR KOSAMBI 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKosam.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV DEPAN TOKO INDRA (ALUN2) 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV KEBON KAWUNG - PASKAL 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKa.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV CICENDO - KB KAWUNG 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicend.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV SIMPANG BRAGA 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragadua.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV SIMPANG BRAGA 03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragatiga.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JALAPRANG 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DAHUA/Jalaprang.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV JL CIGADUNG 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cigadung.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV BALAIKOTA 01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Balkot.m3u8"
+    ]
+  },
+  {
+    "title":"CCTV BALAIKOTA 02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Balaikota.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. Pagarsih",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/pagarsih.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. Rumah Sakit",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/rumahsakit.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. Rumah Sakit 2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/rumahsakit2.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. RAYA KOPO CITARIP",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/kopocitarip.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. SUKAMULYA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/sukamulya.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. TRS. PASIRKOJA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/trspasirkoja.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. CIKUTRA",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/cikutra.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL CIBADUYUT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/cibaduyut.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. A. H. NASUTION CIKADUT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/cikadut.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. CIKUTRA BARAT",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/cikutrabarat.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. PETA - LW PANJANG",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/petalwpanjang.m3u8"
+    ]
+  },
+  {
+    "title":"TB IBRAHIM ADJIE",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/ibrahimadjie.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. GD BAGE SELATAN - JL DERWATI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/gdbageselatan.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. CINGISED",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/cingised.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. TERUSAN JAKARTA - SUPERINDO",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/terusanjakarta.m3u8"
+    ]
+  },
+  {
+    "title":"TB JL. SUDIRMAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/sudirman.m3u8"
+    ]
+  },
+  {
+    "title":"TB DJUNDJUNAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/djundjunan.m3u8"
+    ]
+  },
+  {
+    "title":"TB DJUNDJUNAN",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPU/djundjunan.m3u8"
+    ]
+  },
+  {
+    "title":"TM CIKAPAYANG DAGO_1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapayangsatu.m3u8"
+    ]
+  },
+  {
+    "title":"TM CIKAPAYANG DAGO_2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapayangdua.m3u8"
+    ]
+  },
+  {
+    "title":"TM CIKAPAYANG DAGO_3",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapayangtiga.m3u8"
+    ]
+  },
+  {
+    "title":"TM CIKAPAYANG DAGO_4",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapayangempat.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN FILM _01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanfilmsatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN FILM _02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanfilmdua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN LANSIA_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanlansiasatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN LANSIA_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanlansiadua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN LANSIA_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanlansiatiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN LANSIA_04",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanlansiaempat.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN PET PARK_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpetpark.m3u8"
+    ]
+  },
+  {
+    "title":"TM PET PARK_04",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpetparkempat.m3u8"
+    ]
+  },
+  {
+    "title":"TM PET PARK_05",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpetparklima.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ALUN-ALUN CICENDO_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/alunaluncicendosatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ALUN-ALUN CICENDO_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/alunaluncicendodua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ALUN-ALUN CICENDO_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/alunaluncicendotiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ALUN-ALUN CICENDO_04",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "player/player/#https://pelindung.bandung.go.id:3443/video/DPKP3/alunaluncicendoempat.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ALUN-ALUN CICENDO_05",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "player/player/#https://pelindung.bandung.go.id:3443/video/DPKP3/alunaluncicendolima.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ALUN-ALUN CICENDO_06",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "player/player/#https://pelindung.bandung.go.id:3443/video/DPKP3/alunaluncicendoenam.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ALUN-ALUN CICENDO_07",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/alunaluncicendotujuh.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEGALEGA_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegasatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEGALEGA_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegadua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEGALEGA_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegatiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEGALEGA_04",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegaempat.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEGALEGA_08",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegadelapan.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEGALEGA_10",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegasepuluh.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEGALEGA_11",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegasebelas.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEGALEGA_12",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegaduabelas.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEGALEGA_13",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegatigabelas.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN PASUPATI_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpasupatisatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN PASUPATI_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpasupatidua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN SKETPARK_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamansketparksatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN SKETPARK_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamansketparkdua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN SKETPARK_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamansketparktiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN KARTA_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamankartatiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN KARTA_05",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamankartalima.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEUKU UMAR_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanteukuumarsatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEUKU UMAR_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanteukuumardua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TEUKU UMAR_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanteukuumartiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN PALESTINA_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpalestinasatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN PALESTINA_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpalestinadua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN PALESTINA_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpalestinatiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ALU-ALUN_07",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanalunaluntujuh.m3u8"
+    ]
+  },
+  {
+    "title":"CIKAPUNDUNG RIVER_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapundungriversatu.m3u8"
+    ]
+  },
+  {
+    "title":"CIKAPUNDUNG RIVER_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapundungriverdua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ANGGREK_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamananggreksatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ANGGREK_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamananggrekdua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN ANGGREK_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamananggrektiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN CEMPAKA_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamancempakasatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN CEMPAKA_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamancempakadua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN CEMPAKA_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamancempakatiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN CEMPAKA_04",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamancempakaempat.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TONGKENG_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantongkengsatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN TONGKENG_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantongkengdua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN MALUKU_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmalukusatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN MALUKU_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmalukudua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN MALUKU_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmalukutiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN INCLUSI_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamaninclusisatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN INCLUSI_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamaninclusidua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN INCLUSI_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamaninclusitiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN INCLUSI_04",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamaninclusiempat.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN RADIO_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanradiosatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN RADIO_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanradiodua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN RADIO_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanradiotiga.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN MUSIK_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmusiksatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN MUSIK_01",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmusiksatu.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN MUSIK_02",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmusikdua.m3u8"
+    ]
+  },
+  {
+    "title":"TAMAN MUSIK_03",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmusiktiga.m3u8"
+    ]
+  },
+  {
+    "title":"LOBBY RSUD BANDUNG KIWARI",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/LAINNYA/rsud.m3u8"
+    ]
+  },
+  {
+    "title":"ARAH MPP",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/LAINNYA/mppsatu.m3u8"
+    ]
+  },
+  {
+    "title":"MPP_1",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/LAINNYA/mppsatu.m3u8"
+    ]
+  },
+  {
+    "title":"MPP_2",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/LAINNYA/mppdua.m3u8"
+    ]
+  },
+  {
+    "title":"LOBBY PDAM TIRTAWELING",
+    "provider":"webview",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://pelindung.bandung.go.id:3443/video/LAINNYA/pdamdua.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - GEDEBAGE PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Gedebage/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - GEDEBAGE ARAH TIMUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/GedebageTimur/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - GEDEBAGE ARAH SELATAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/GedebageSel/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - GEDEBAGE ARAH UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/GedebageUtara/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - IBRAHIM ADJIE",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Samsat/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - BUAHBATU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Buahbatu/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - BATUNUNGGAL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Batununggal/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - MOCH. TOHA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/MochToha/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - INHOPTENG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Inhoptank/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - CIBADUYUT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Cibaduyut/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - KOPO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Kopo/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - PASAR CARINGIN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/PasarCaringin/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - PASIR KOJA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/PasirKoja/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - CIBEUREUM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Cibeureum/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SUDIRMAN - JAMIKA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Jamika/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SUDIRMAN - GARDUJATI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Gardujati/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SUDIRMAN - OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Otista/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP ASIA AFRIKA - TAMBLONG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Tamblong/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP ASIA AFRIKA - SP LIMA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/SimpangLima/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP A YANI - GUDANG UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/GudangUtara/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP A YANI - LASWI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Laswi/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP A YANI - SUPRATMAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Supratman/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP DJUNJUNAN - TOL PASTEUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/TolPasteur/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO PasirKalikiIP Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/PasirKalikiIP/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO PasirKalikiAng Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/PasirKalikiAng/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO Paskal Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/paskaltim/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO Paskal Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/PaskalUtara/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO Paskal Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/PaskalBar/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO Paskal Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/PaskalSel/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASTEUR - CIPAGANTI 01 SP. Cipaganti Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Cipaganti/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASTEUR - CIPAGANTI 02 SP. Cipaganti Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Cipaganti2/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASTEUR - CIHAMPELAS Arah Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/CihampelasBarat/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASTEUR - CIHAMPELAS Arah Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/CihampelasUtara/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASTEUR - CIHAMPELAS Arah Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/CihampelasTimur/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASTEUR - CIHAMPELAS Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/CihampelasPTZ/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PASTEUR - TAMANSARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Tamansari/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP DAGO - CIKAPAYANG Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Cikapayang1/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP DAGO - CIKAPAYANG Arah Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/CikapayangSelatan/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP DAGO - CIKAPAYANG Arah Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/CikapayangUtara/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP DAGO - SULANJANA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Sulanjana/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP MERDEKA - JUANDA Merdeka Aceh Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/MerdekaAceh/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP MERDEKA - JUANDA Merdeka Juanda Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/MerdekaJuanda/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP DIPONEGORO - CILAMAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Cimalaya/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP SURAPATI - SENTOT ALIBASYAH (TELKOM)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Telkom/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PHH MUSTOFA - PAHLAWAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Pahlawan/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP RIAU - TRUNOJOYO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Trunojoyo/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP RIAU - BANDA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Banda/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP RIAU - LOMBOK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Lombok/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP RIAU - CIHAPIT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Cihapit/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP RIAU - ACEH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Aceh/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP RIAU - ANGGREK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Anggrek/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PHH MUSTOFA - CIKUTRA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Cikutra/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PHH MUSTOFA - CIMUNCANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Cimuncang/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP PHH MUSTOFA - PADASUKA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Padasuka/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP CICAHEUM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Cicaheum/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP Ujung Berung - Jl Rumah Sakit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/UjungBerung/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS RIAU - TRUNOJOYO (LIMIJATI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasriaulimijati/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS RIAU - BANDA (TARUNA BHAKTI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasriautarbak/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS RIAU - BANDA (BRI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasriaubri/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS RIAU - LOMBOK (PENGADILAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasriaupengadilan/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS RIAU - TM. PRAMUKA (BJB)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasriaubjb/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS RIAU - ANGGREK (DISPARBUD)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasriaudisparbud/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS SUDIRMAN - OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasotista/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS SUDIRMAN - GARDUJATI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Gardujati/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - TALAGA BODAS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/TalagaBodas/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - MARTANEGARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Martanegara/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - BUAH BATU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/BuahBatuLingkar/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - SRIWIJAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Sriwijaya/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - M RAMDAN SP. MRamdan Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/MRamdan/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - M RAMDAN Ramdhan Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/RamdanBarat/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP BKR - M TOHA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/PtInti/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP BKR - OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/OtistaLingkar/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP TJOKROAMINOTO - PAJAJARAN (ISTANA PLAZA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/IstanaPlaza/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP TJOKROAMINOTO - PAJAJARAN (ISTANA PLAZA) tim",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/laswiut/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP CIHAMPELAS - CIUMBULEUIT ARAH UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/CihampelasUtara/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP CIHAMPELAS - CIUMBULEUIT ARAH UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/CihampelasUtara/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP CIHAMPELAS - CIUMBULEUIT ARAH TIMUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/CihampelasTimur/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP DJUANDA - DIPATIUKUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/DjuandaBarat/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP ABDURAHMAN SALEH - PAJAJARAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/PajajaranBarat/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS ISTIQOMAH - BANDA (FIXED - DEPAN BRI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasistiqomahbanda/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS ISTIQOMAH - CIHAPIT (FIXED - SEBERANG PENGADILAN NEGERI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasistiqomahcihapit/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS TAMAN PRAMUKA - CIHAPIT (FIXED - DEPAN GOURMET)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruaspramukacihapit/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS CIHAPIT TAMAN PRAMUKA (FIXED - SEBERANG BJB/LIA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruascihapitpramuka/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS ANGGREK (FIXED - DEPAN DISPARBUD)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasanggrek/stream.m3u8"
+    ]
+  },
+  {
+    "title":"RUAS SUDIRMAN - OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Ruasotista/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - TALAGA BODAS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/TalagaBodas/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - MARTANEGARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Martanegara/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - BUAH BATU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/BuahBatuLingkar/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - SRIWIJAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/Sriwijaya/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP LINGKAR - M RAMDAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/MRamdan/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP BKR - M TOHA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/PtInti/stream.m3u8"
+    ]
+  },
+  {
+    "title":"SP BKR - OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "https://atcs-dishub.bandung.go.id:1990/OtistaLingkar/stream.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Kopo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/a3bfe9d130f7a8830cb78d8b1885de6d/hls/dishub/ChVTuxTE9X/s.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Soroja",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/43be8e94ef990277cfafbbb4355cffb9/hls/dishub/d1PhwYMRX7/s.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Pemda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/2b7439dad22736f7cb0a5d8ebf1dab82/hls/dishub/rlFyhHJGZe/s.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Gading Tutuka",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/cb181a47c3027dedf3a2866013fe7655/hls/dishub/lcOqDHoOTn/s.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Katapang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.115:8080/effd719b74170158ef194692fa689ed6/hls/dishub/jLB1AKYQah/s.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Desa Soreang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://10.87.0.124:8080/super/93df53ca89a1637127d4552190d3d4f0/hls/dishub/s73B97vwP8/s.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Rancamanyar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/cb181a47c3027dedf3a2866013fe7655/hls/dishub/JI64fMPFFL/s.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Laswi Ciparay",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/cb181a47c3027dedf3a2866013fe7655/hls/dishub/6jLt6cTTDt/s.m3u8"
+    ]
+  },
+  {
+    "title":"Simpang Laswi - BNI Majalaya",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/cb181a47c3027dedf3a2866013fe7655/hls/dishub/kDV7uC5BwO/s.m3u8"
+    ]
+  }
+]
